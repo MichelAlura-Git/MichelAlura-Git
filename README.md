@@ -1,16 +1,15 @@
-## Hi there 👋
+## Seja bem vindo ao meu repositório! 🌟🐺
 
-<!--
-**MichelAlura-Git/MichelAlura-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Michel Vieira!
 
-Here are some ideas to get you started:
+- Sou um estudante da [Alura](https://www.alura.com)
+- Estou aprendendo a linguagem JavaScript;
+- Esse espaço é para minha organização e compartilhamento dos meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo 📫
+
+michelvieira267@gmail.com
+### Instagram 📱
+@lunitogalip
+
+![](https://media.tenor.com/laTTPp9orNkAAAAM/lucario-cheering.gif)
