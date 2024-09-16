@@ -12,4 +12,5 @@ michelvieira267@gmail.com
 ### Instagram 📱
 @lunitogalip
 
-![](https://media.tenor.com/laTTPp9orNkAAAAM/lucario-cheering.gif)
+https://edusp-static.ip.tv/tms/edusp/tarefasp10/uKhsVtyi2Y6dzusEubVLIyBYY9IL6G.gif
+
