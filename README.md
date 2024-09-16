@@ -12,5 +12,4 @@ michelvieira267@gmail.com
 ### Instagram 📱
 @lunitogalip
 
-https://edusp-static.ip.tv/tms/edusp/tarefasp10/uKhsVtyi2Y6dzusEubVLIyBYY9IL6G.gif
 
